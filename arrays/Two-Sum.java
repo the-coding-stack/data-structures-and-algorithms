@@ -62,6 +62,8 @@ class Solution {
     }
 }
 
+// TC - O(n^2)
+
 // ========================= Solution - 2 (using hashmap) =================================
 
 import java.util.HashMap;
@@ -87,3 +89,5 @@ class Solution {
         return res;
     }
 }
+
+// TC - O(n)
