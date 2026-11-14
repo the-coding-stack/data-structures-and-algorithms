@@ -10,12 +10,16 @@ Given an `n x n` matrix representing an image, rotate it 90 degrees clockwise. M
 
 **Example 1**
 
+![Visual explanation for Example 1](https://assets.leetcode.com/uploads/2020/08/28/mat1.jpg)
+
 ```text
 Input:  matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 Output: [[7, 4, 1], [8, 5, 2], [9, 6, 3]]
 ```
 
 **Example 2**
+
+![Visual explanation for Example 2](https://assets.leetcode.com/uploads/2020/08/28/mat2.jpg)
 
 ```text
 Input:  matrix = [[5, 1, 9, 11], [2, 4, 8, 10], [13, 3, 6, 7], [15, 14, 12, 16]]
